@@ -1,6 +1,8 @@
 # html_league_table
 HTML / JavaScript based League Table
 
+EXAMPLE: http://willsblogjsleague.azurewebsites.net/
+
 #To use this website
 
 1 - Downlaod all files and extract folder into the same directory
